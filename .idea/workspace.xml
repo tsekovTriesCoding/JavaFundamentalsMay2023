@@ -5,230 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f39eb9-0af6-4c31-804c-302d75ccf47a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A10ExamPreparation/A1FinalExam/P01WorldTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A10ExamPreparation/A1FinalExam/P02DestinationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A10ExamPreparation/A1FinalExam/P03PlantDiscovery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/A1BasicSyntaxConditionalStatementsAndLoops.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P01Ages.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P01Ages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P02Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P02Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P03Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P03Vacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P04PrintAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P04PrintAndSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P05Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P05Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P06StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P06StrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P07VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P07VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P08TriangleOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P08TriangleOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P09Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P09Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P10PadawanEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P10PadawanEquipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P11RageExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Exercise/P11RageExpenses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P01StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P01StudentInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P02Passed.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P02Passed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P03PassedOrFailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P03PassedOrFailed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P04BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P04BackIn30Minutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P05MonthPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P05MonthPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P06ForeignLanguages.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P06ForeignLanguages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P07TheatrePromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P07TheatrePromotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P08DivisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P08DivisibleBy3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P09SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P09SumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P10MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P10MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P11MultiplicationTable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P11MultiplicationTable2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P12EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P12EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P13RefactorSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/Lab/P13RefactorSumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P01SortNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P01SortNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P02EnglishNameOfTheLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P02EnglishNameOfTheLastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P03GamingStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P03GamingStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P04ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P04ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P05Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1BasicSyntaxConditionalStatementsAndLoops/MoreExercises/P05Messages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/A2DataTypesAndVariables.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P01IntegerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P01IntegerOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P02SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P02SumDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P03Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P03Elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P04SumOfChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P04SumOfChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P05PrintPartOfASCIITable.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P05PrintPartOfASCIITable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P06TriplesOfLatinLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P06TriplesOfLatinLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P07WaterOverflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P07WaterOverflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P08BeerKegs.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P08BeerKegs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P09SpiceMustFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P09SpiceMustFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P10PokeMon.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P10PokeMon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P11Snowballs.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Exercise/P11Snowballs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/O02PoundsToDollars.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/O02PoundsToDollars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P01ConvertMetersToKilometers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P01ConvertMetersToKilometers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P03ExactSumOfRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P03ExactSumOfRealNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P04TownInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P04TownInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P05ConcatNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P05ConcatNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P06CharsToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P06CharsToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P07ReversedChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P07ReversedChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P08LowerOrUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P08LowerOrUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P09CenturiesToMinutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P09CenturiesToMinutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P10SpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P10SpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P11RefactorVolumeOfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P11RefactorVolumeOfPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P12RefactorSpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/Lab/P12RefactorSpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P01DataTypeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P01DataTypeFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P02FromLeftToTheRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P02FromLeftToTheRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P03FloatingEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P03FloatingEquality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P04RefactoringPrimeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P04RefactoringPrimeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P05DecryptingMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P05DecryptingMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P06BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2DataTypesAndVariables/MoreExercises/P06BalancedBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/A3Arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P01Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P01Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P02CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P02CommonElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P03ZigZagArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P03ZigZagArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P04ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P04ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P05TopIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P05TopIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P06EqualSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P06EqualSums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P07MaxSequenceOfEqualElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P07MaxSequenceOfEqualElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P08MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P08MagicSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P09ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P09ArrayModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Exercise/P10TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Exercise/P10TreasureHunt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P01DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P01DayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P02PrintNumbersInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P02PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P03SumEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P03SumEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P04ReverseArrayOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P04ReverseArrayOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P05EvenAndOddSubtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P05EvenAndOddSubtraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P06EqualArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P06EqualArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/Lab/P07CondenseArrayToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/Lab/P07CondenseArrayToNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/MoreExercises/P01EncryptSortAndPrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/MoreExercises/P01EncryptSortAndPrintArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/MoreExercises/P02PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/MoreExercises/P02PascalTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/MoreExercises/P03RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/MoreExercises/P03RecursiveFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/MoreExercises/P04LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/MoreExercises/P04LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/MoreExercises/P05KaminoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/MoreExercises/P05KaminoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3Arrays/MoreExercises/P06LadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/A3Arrays/MoreExercises/P06LadyBugs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/A4Methods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P01SmallestOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P01SmallestOfThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P02VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P02VowelsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P03CharactersInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P03CharactersInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P04PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P04PasswordValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P05AddAndSubtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P05AddAndSubtract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P06MiddleCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P06MiddleCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P07NxNMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P07NxNMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P08FactorialDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P08FactorialDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P09PalindromeIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P09PalindromeIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Exercise/P10TopNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Exercise/P10TopNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P01SignOfIntegerNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P01SignOfIntegerNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P02Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P02Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P03PrintingTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P03PrintingTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P04Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P04Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P05Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P05Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P06CalculateRectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P06CalculateRectangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P07RepeatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P07RepeatString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P08MathPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P08MathPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P09GreaterOfTwoValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P09GreaterOfTwoValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P10MultiplyEvensByOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P10MultiplyEvensByOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/Lab/P11MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/Lab/P11MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/MoreExercises/P01DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/MoreExercises/P01DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/MoreExercises/P02CenterPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/MoreExercises/P02CenterPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/MoreExercises/P03LongerLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/MoreExercises/P03LongerLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/MoreExercises/P04TribonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/MoreExercises/P04TribonacciSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/MoreExercises/P05MultiplicationSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/MoreExercises/P05MultiplicationSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4Methods/MoreExercises/P06ArrayManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/A4Methods/MoreExercises/P06ArrayManipulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/A5Lists.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P01Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P01Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P02ChangeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P02ChangeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P03HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P03HouseParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P04ListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P04ListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P05BombNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P05BombNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P06CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P06CardsGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P07AppendArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P07AppendArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P08AnonymousThreat.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P08AnonymousThreat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P09PokemonDontGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P09PokemonDontGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Exercise/P10SoftUniCoursePlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Exercise/P10SoftUniCoursePlanning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P01SumAdjacentEqualNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P01SumAdjacentEqualNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P02GaussTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P02GaussTrick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P03MergingLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P03MergingLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P04ListManipulationBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P04ListManipulationBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P05ListManipulationAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P05ListManipulationAdvanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P06ListOfProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P06ListOfProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/Lab/P07RemoveNegativesAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/Lab/P07RemoveNegativesAndReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/MoreExercises/P01Messaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/MoreExercises/P01Messaging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/MoreExercises/P02CarRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/MoreExercises/P02CarRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/MoreExercises/P03TakeSkipRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/MoreExercises/P03TakeSkipRope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/MoreExercises/P04MixedUpLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/MoreExercises/P04MixedUpLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A5Lists/MoreExercises/P05DrumSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/A5Lists/MoreExercises/P05DrumSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/A6ObjectsAndClasses.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P01AdvertisementMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P01AdvertisementMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P02Articles/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P02Articles/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P02Articles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P02Articles/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P03OpinionPoll/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P03OpinionPoll/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P03OpinionPoll/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P03OpinionPoll/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P04Students/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P04Students/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P04Students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P04Students/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P05VehicleCatalogue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P05VehicleCatalogue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P05VehicleCatalogue/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P05VehicleCatalogue/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P06OrderByAge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P06OrderByAge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P06OrderByAge/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P06OrderByAge/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P07GroomingSalon/GroomingSalon.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P07GroomingSalon/GroomingSalon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P07GroomingSalon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P07GroomingSalon/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P07GroomingSalon/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Exercise/P07GroomingSalon/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P01RandomizeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P01RandomizeWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P02SumBigNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P02SumBigNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P03BigFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P03BigFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P04Songs.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P04Songs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P05Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P05Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P06Students2.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/Lab/P06Students2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/MoreExercises.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P01CompanyRoster/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P01CompanyRoster/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P01CompanyRoster/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P01CompanyRoster/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P01CompanyRoster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P01CompanyRoster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Cargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P02RawData/Tire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P03CarSalesman/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P03CarSalesman/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P03CarSalesman/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P03CarSalesman/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P03CarSalesman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A6ObjectsAndClasses/MoreExercises/P03CarSalesman/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/A7AssociativeArrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P01CountCharsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P01CountCharsInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P02AMinerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P02AMinerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P03Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P03Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P04SoftUniParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P04SoftUniParking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P05Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P05Courses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P06StudentAcademy.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P06StudentAcademy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P07LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P07LegendaryFarming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P08CompanyUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P08CompanyUsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P09ForceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P09ForceBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P10SoftUniExamResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Exercise/P10SoftUniExamResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P01CountRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P01CountRealNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P02WordSynonyms.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P02WordSynonyms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P03OddOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P03OddOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P04WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7AssociativeArrays/Lab/P04WordFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/A8TextProcessing.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P01ValidUsernames.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P01ValidUsernames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P02CharacterMultiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P02CharacterMultiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P03ExtractFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P03ExtractFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P04CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P04CaesarCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P05MultiplyBigNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P05MultiplyBigNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P06ReplaceRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P06ReplaceRepeatingChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P07StringExplosion.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P07StringExplosion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Exercise/P08LettersChangeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Exercise/P08LettersChangeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Lab/P01ReverseStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Lab/P01ReverseStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Lab/P02RepeatStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Lab/P02RepeatStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Lab/P03Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Lab/P03Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Lab/P04TextFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Lab/P04TextFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/Lab/P05DigitsLettersAndOther.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/Lab/P05DigitsLettersAndOther.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P01ExtractPersonInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P01ExtractPersonInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P02AsciiSumator.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P02AsciiSumator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P03TreasureFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P03TreasureFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P04MorseCodeTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P04MorseCodeTranslator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P05HTML.java" beforeDir="false" afterPath="$PROJECT_DIR$/A8TextProcessing/MoreExercises/P05HTML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/A9RegularExpressions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P01Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P01Furniture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P02Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P02Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P03SoftUniBarIncome.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P03SoftUniBarIncome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P04NetherRealms.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P04NetherRealms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P04StarEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P04StarEnigma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P05ExtractEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P05ExtractEmails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P06ValidatePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Exercise/P06ValidatePassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Lab/P01MatchFullName.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Lab/P01MatchFullName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Lab/P02MatchPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Lab/P02MatchPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/Lab/P03MatchDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/Lab/P03MatchDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P01WinningTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P01WinningTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P02RageQuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P02RageQuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P03PostOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P03PostOffice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P04SantasSecretHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/A9RegularExpressions/MoreExercises/P04SantasSecretHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFundamentalsMay2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentalsMay2023.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -248,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "19"
   }
