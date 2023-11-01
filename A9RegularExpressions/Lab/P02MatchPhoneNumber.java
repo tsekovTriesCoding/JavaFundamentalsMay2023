@@ -1,4 +1,4 @@
-package A19RegularExpressions;
+package A9RegularExpressions.Lab;
 
 import java.util.ArrayList;
 import java.util.List;

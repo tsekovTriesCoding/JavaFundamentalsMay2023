@@ -1,4 +1,4 @@
-package A9ExerciseMethods.Exercises;
+package A4Methods.Exercise;
 
 import java.util.Scanner;
 

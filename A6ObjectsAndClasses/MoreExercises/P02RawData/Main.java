@@ -1,4 +1,4 @@
-package A6DefiningClasses.Exercise.P04RawData;
+package A6ObjectsAndClasses.MoreExercises.P02RawData;
 
 import java.util.*;
 

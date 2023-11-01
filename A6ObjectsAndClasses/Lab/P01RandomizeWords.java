@@ -1,4 +1,4 @@
-package A13ObjectsAndClasses;
+package A6ObjectsAndClasses.Lab;
 
 import java.util.Random;
 import java.util.Scanner;

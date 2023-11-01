@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise;
+package A6ObjectsAndClasses.Exercise;
 
 import java.util.Random;
 import java.util.Scanner;

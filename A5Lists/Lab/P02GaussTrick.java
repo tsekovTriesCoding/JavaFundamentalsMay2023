@@ -1,4 +1,4 @@
-package A10List;
+package A5Lists.Lab;
 
 import java.util.Arrays;
 import java.util.List;

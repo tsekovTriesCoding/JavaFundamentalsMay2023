@@ -1,4 +1,4 @@
-package A6ExerciseArrays.MoreExercises;
+package A3Arrays.MoreExercises;
 
 import java.util.*;
 

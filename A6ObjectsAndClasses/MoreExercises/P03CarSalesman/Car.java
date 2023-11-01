@@ -1,4 +1,4 @@
-package A6DefiningClasses.Exercise.P05CarSalesman;
+package A6ObjectsAndClasses.MoreExercises.P03CarSalesman;
 
 public class Car {
     private String model;

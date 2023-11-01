@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P07GroomingSalon;
+package A6ObjectsAndClasses.Exercise.P07GroomingSalon;
 
 import java.util.ArrayList;
 import java.util.List;

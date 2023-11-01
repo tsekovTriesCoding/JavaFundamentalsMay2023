@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P07GroomingSalon;
+package A6ObjectsAndClasses.Exercise.P07GroomingSalon;
 
 public class Pet {
 

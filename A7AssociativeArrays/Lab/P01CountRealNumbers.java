@@ -1,4 +1,4 @@
-package A15AssociativeArrays;
+package A7AssociativeArrays.Lab;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;

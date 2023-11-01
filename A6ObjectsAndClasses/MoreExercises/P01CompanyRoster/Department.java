@@ -1,4 +1,4 @@
-package A6DefiningClasses.Exercise.P02CompanyRoster;
+package A6ObjectsAndClasses.MoreExercises.P01CompanyRoster;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package A9ExerciseMethods.MoreExercises;
+package A4Methods.MoreExercises;
 
 import java.util.*;
 

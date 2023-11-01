@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P02Articles;
+package A6ObjectsAndClasses.Exercise.P02Articles;
 
 import java.util.Scanner;
 

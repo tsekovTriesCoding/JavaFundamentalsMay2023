@@ -1,4 +1,4 @@
-package A3DataTypeAndVariables;
+package A2DataTypesAndVariables.Lab;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

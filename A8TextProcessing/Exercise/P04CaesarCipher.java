@@ -1,4 +1,4 @@
-package A18ExerciseTextProcessing.Exercise;
+package A8TextProcessing.Exercise;
 
 import java.util.Scanner;
 

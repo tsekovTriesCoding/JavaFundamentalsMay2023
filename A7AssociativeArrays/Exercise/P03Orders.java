@@ -1,4 +1,4 @@
-package A16AssociativeArraysAndLambdaAndStreamAPI.Exercise;
+package A7AssociativeArrays.Exercise;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

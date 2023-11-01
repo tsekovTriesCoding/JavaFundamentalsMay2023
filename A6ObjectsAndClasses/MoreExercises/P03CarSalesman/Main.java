@@ -1,4 +1,4 @@
-package A6DefiningClasses.Exercise.P05CarSalesman;
+package A6ObjectsAndClasses.MoreExercises.P03CarSalesman;
 
 import java.util.*;
 

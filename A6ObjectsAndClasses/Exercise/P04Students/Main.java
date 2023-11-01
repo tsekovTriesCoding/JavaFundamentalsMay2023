@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P04Students;
+package A6ObjectsAndClasses.Exercise.P04Students;
 
 import java.util.ArrayList;
 import java.util.Comparator;

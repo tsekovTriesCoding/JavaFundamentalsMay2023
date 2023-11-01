@@ -1,4 +1,4 @@
-package A4ExerciseDataTypesAndVariables.MoreExercises;
+package A2DataTypesAndVariables.MoreExercises;
 
 import java.util.Scanner;
 

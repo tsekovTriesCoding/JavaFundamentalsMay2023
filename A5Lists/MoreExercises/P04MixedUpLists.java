@@ -1,4 +1,4 @@
-package A11ExerciseList.MoreExercises;
+package A5Lists.MoreExercises;
 
 import java.util.*;
 import java.util.stream.Collectors;

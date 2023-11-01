@@ -1,4 +1,4 @@
-package A18ExerciseTextProcessing.MoreExercise;
+package A8TextProcessing.MoreExercises;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

@@ -1,4 +1,4 @@
-package A17TextProcessing;
+package A8TextProcessing.Lab;
 
 import java.util.ArrayList;
 import java.util.List;

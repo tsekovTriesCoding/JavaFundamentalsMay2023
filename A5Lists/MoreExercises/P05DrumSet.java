@@ -1,4 +1,4 @@
-package A11ExerciseList.MoreExercises;
+package A5Lists.MoreExercises;
 
 import java.util.Arrays;
 import java.util.List;

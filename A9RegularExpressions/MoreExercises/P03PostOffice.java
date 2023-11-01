@@ -1,4 +1,4 @@
-package A20ExerciseRegularExpressions.MoreExercise;
+package A9RegularExpressions.MoreExercises;
 
 import java.util.ArrayList;
 import java.util.List;

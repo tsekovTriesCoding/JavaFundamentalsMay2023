@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P03OpinionPoll;
+package A6ObjectsAndClasses.Exercise.P03OpinionPoll;
 
 import java.util.ArrayList;
 import java.util.List;

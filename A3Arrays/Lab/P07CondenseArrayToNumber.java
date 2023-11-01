@@ -1,4 +1,4 @@
-package A5Arrays;
+package A3Arrays.Lab;
 
 import java.util.Arrays;
 import java.util.Scanner;

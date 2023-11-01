@@ -1,4 +1,4 @@
-package A8Methods;
+package A4Methods.Lab;
 
 import java.util.Scanner;
 

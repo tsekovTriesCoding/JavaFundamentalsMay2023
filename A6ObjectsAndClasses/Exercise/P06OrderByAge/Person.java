@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P06OrderByAge;
+package A6ObjectsAndClasses.Exercise.P06OrderByAge;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package A14ExerciseObjectsAndClasses.Exercise.P05VehicleCatalogue;
+package A6ObjectsAndClasses.Exercise.P05VehicleCatalogue;
 
 public class Vehicle {
 
