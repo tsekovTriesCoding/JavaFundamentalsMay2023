@@ -1,2 +1,4 @@
-# JavaFundamentalsMay2023
- Repository with solutions for different fundamental problems(arrays,lists,maps, etc.). SoftUni Course: Programming Fundamentals with Java - May 2023.
+<h2 align="center">Java-Fundamentals-May-2023 Certificate</h2>
+<div id="header" align="center">
+  <img src="Programming Fundamentals with Java - May 2023 - Certificate.jpeg" width = 60%>
+</div> 
